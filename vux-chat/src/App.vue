@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-    <!-- <h1>chat test</h1> -->
-    <!--<img src="./assets/logo.png">-->
     <router-view></router-view>
   </div>
 </template>
@@ -12,6 +10,10 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
+@import '~vux/src/styles/reset.less';
 
+body {
+  background-color: #fbf9fe;
+}
 </style>

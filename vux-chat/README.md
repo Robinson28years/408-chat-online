@@ -1,4 +1,4 @@
-# vue-chat
+# vux-chat
 
 > A Vue.js project
 
